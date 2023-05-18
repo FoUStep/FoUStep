@@ -18,6 +18,7 @@
 [![Nagios](https://img.shields.io/badge/nagios-black?style=for-the-badge&logo=nagios)](https://hub.docker.com/u/FoUStep)
 [![PaloAltoNetworks](https://img.shields.io/badge/paloaltonetworks-black?style=for-the-badge&logo=paloaltonetworks)](https://hub.docker.com/u/FoUStep)
 [![PiHole](https://img.shields.io/badge/pihole-black?style=for-the-badge&logo=pihole)](https://hub.docker.com/u/FoUStep)
+[![Synology](https://img.shields.io/badge/synology-black?style=for-the-badge&logo=synology)](https://hub.docker.com/u/FoUStep)
 [![VMware](https://img.shields.io/badge/vmware-black?style=for-the-badge&logo=vmware)](https://hub.docker.com/u/FoUStep)
 [![Ubiquiti](https://img.shields.io/badge/ubiquiti-black?style=for-the-badge&logo=ubiquiti)](https://hub.docker.com/u/FoUStep)
 
