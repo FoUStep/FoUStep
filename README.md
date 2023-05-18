@@ -16,8 +16,10 @@
 [![Docker](https://img.shields.io/badge/docker-black?style=for-the-badge&logo=docker)](https://hub.docker.com/u/FoUStep)
 [![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)](https://hub.docker.com/u/FoUStep)
 [![Nagios](https://img.shields.io/badge/nagios-black?style=for-the-badge&logo=nagios)](https://hub.docker.com/u/FoUStep)
+[![PaloAltoNetworks](https://img.shields.io/badge/paloaltonetworks-black?style=for-the-badge&logo=paloaltonetworks)](https://hub.docker.com/u/FoUStep)
 [![PiHole](https://img.shields.io/badge/pihole-black?style=for-the-badge&logo=pihole)](https://hub.docker.com/u/FoUStep)
 [![VMware](https://img.shields.io/badge/vmware-black?style=for-the-badge&logo=vmware)](https://hub.docker.com/u/FoUStep)
+[![Ubiquiti](https://img.shields.io/badge/ubiquiti-black?style=for-the-badge&logo=ubiquiti)](https://hub.docker.com/u/FoUStep)
 
 
 ### OS
