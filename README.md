@@ -8,6 +8,7 @@
 ### Languages
 [![Bash](https://img.shields.io/badge/bash-black?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://github.com/FoUStep)
 [![JSON](https://img.shields.io/badge/json-black?style=for-the-badge&logo=json)](https://hub.docker.com/u/FoUStep)
+[![Perl](https://img.shields.io/badge/perl-black?style=for-the-badge&logo=perl)](https://github.com/FoUStep)
 [![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/FoUStep)
 [![YAML](https://img.shields.io/badge/yaml-black?style=for-the-badge&logo=yaml)](https://hub.docker.com/u/FoUStep)
 
