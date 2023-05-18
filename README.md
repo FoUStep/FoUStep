@@ -1,7 +1,9 @@
+<p align="center">
   <i>
         I'm Step and I'm a network engineer, not a dev.<br>
         Currently working on a forked Palo Alto Network integration for Home Assistant.<br>
   </i><br>
+</p>
 
 ### Languages
 [![Bash](https://img.shields.io/badge/bash-black?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://github.com/FoUStep)
